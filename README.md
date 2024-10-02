@@ -1,1 +1,3 @@
 # Collect-the-apples-game-Microprocessors-group-project
+
+This is my microprocessor group project that I did in first year. It is a collect the apples game where you have to control the person on screen and collect as many apples without touching any bombs. Every three apples collected a new bomb spawns. This is made for a microprocessor on a breadboard. The main.c holds all of the program code to make the game work. It is all coded in c. I coded the game logic. For example I created the functions that check if the player has collected a bomb, spawning a new bomb when 3 apples are collected and checking if the person is in a bomb and ending the game.
